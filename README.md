@@ -1,1 +1,1 @@
-# GPT-3-Writer-nextjs
+(finished version)  buildpace gpt3 build 
